@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaveeshapasan2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://wakatime.com/@b9187012-c1be-49ae-a125-c33fdec31629" target="_blank">
-    <img src="https://wakatime.com/badge/user/b9187012-c1be-49ae-a125-c33fdec31629.svg" alt="WakaTime Badge" />
+    <img src="https://wakatime.com/badge/user/b718388179-c1be-49ae-a125-c33fdec31629.svg" alt="WakaTime Badge" />
   </a>
 </p>
 
