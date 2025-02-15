@@ -89,7 +89,7 @@ Right now, I'm diving into:
 
 
   <!-- Most Used Languages with cache refresh -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithch&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Most Used Languages" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshapasan2002&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Most Used Languages" style="margin: 10px;" />
 </p>
 
 
